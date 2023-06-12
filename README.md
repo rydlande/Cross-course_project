@@ -20,7 +20,7 @@ I did not have the opportunity to finish all the course assignment related to th
 
 ## Running
 
-To view the page, click on the link
+To view the page, copy this link:
 
     https://rydlande.github.io/Cross-course_project/
 
